@@ -4,3 +4,4 @@ This project is a arudino ping pong game that is used to play ping pong against 
 # Pictures of the Project
 ![image](https://user-images.githubusercontent.com/77080022/194683863-98b55b09-06a2-4141-9818-750b5f2ce8ab.png)
 ![image](https://user-images.githubusercontent.com/77080022/194683934-3a32357d-4c88-4b5e-9ec1-6568faf44bf3.png)
+![image](https://user-images.githubusercontent.com/77080022/194683979-3c55e68f-15db-4309-b14c-4cfcd9c570ff.png)
